@@ -7,8 +7,6 @@ A demonstration of how a luxury hotel chain can leverage SAP's AI capabilities t
 Overview
 This project simulates how a hotel chain with 300 properties could use SAP Business AI to dynamically adjust room pricing and optimize staffing based on real-time market conditions. The solution analyzes booking trends, local events, and competitor rates to deliver data-driven recommendations.
 
-Important Note: This is a simulation created for portfolio purposes. It uses mock data and simulates SAP's AI capabilities without connecting to actual SAP services. In a real implementation, this solution would integrate with various SAP technologies as described below.
-
 Key Features
 AI-Driven Dynamic Pricing: Calculates optimal room rates based on multiple factors:
 
